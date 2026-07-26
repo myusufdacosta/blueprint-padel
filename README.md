@@ -35,3 +35,11 @@ Live and in active use by the client. Maintained as venue details and pricing ch
 ---
 
 Built by [Yusuf Da Costa](https://github.com/myusufdacosta) — open to freelance and contract work.
+
+## Screenshots
+
+### Hero section
+![Blueprint Padel hero](Screenshots/blueprint-hero.png)
+
+### Pricing
+![Blueprint Padel pricing](Screenshots/blueprint-pricing.png)
